@@ -10,6 +10,7 @@ import java.util.ArrayList;
 
 public class OperationTest extends TestCase {
 
+    /*
     public void testMain() throws Exception {
         _testWriteOSG();
     }
@@ -43,6 +44,5 @@ public class OperationTest extends TestCase {
             e.printStackTrace();
         }
     }
-
-
+    */
 }
